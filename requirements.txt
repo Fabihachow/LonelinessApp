@@ -4,7 +4,6 @@ streamlit-option-menu==0.3.2
 plotly==5.24.1
 joblib==1.4.2
 seaborn==0.13.2
-pickle-mixin==1.0.2
 altair==5.4.1
 attrs==24.2.0
 blinker==1.8.2
@@ -20,7 +19,6 @@ GitPython==3.1.43
 idna==3.10
 importlib_resources==6.4.5
 Jinja2==3.1.4
-joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kiwisolver==1.4.7
@@ -29,11 +27,10 @@ MarkupSafe==3.0.2
 matplotlib==3.9.2
 mdurl==0.1.2
 narwhals==1.10.0
-numpy==2.0.2
+numpy==2.0.2 --only-binary=:all:
 packaging==24.1
-pandas==2.2.3
+pandas==2.2.3 --only-binary=:all:
 pillow==10.4.0
-plotly==5.24.1
 protobuf==5.28.2
 pyarrow==17.0.0
 pydeck==0.9.1
@@ -45,9 +42,8 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.2
 rpds-py==0.20.0
-scikit-learn==1.2.2
+scikit-learn==1.2.2 --only-binary=:all:
 scipy==1.13.1
-seaborn==0.13.2
 six==1.16.0
 smmap==5.0.1
 streamlit==1.39.0
@@ -59,4 +55,3 @@ typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 zipp==3.20.2
-streamlit-option-menu==0.3.2
