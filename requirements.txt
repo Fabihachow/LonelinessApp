@@ -1,5 +1,4 @@
 ﻿pickle-mixin==1.0.2
-python==3.10.14
 Cython==0.29.36
 streamlit-option-menu==0.3.2
 plotly==5.24.1
