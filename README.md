@@ -32,4 +32,4 @@ Personal Use: Allow self-assessment and personalized recommendations.
 
 Non-Profit Organizations: Design and implement targeted loneliness reduction programs.
 
-Don't hesitate to check it out!
+Don't hesitate to check it out! [https://lonelinessapp.streamlit.app/Explore] Click here!
